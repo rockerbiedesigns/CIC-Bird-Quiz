@@ -1,0 +1,50 @@
+[
+  {
+    "key": "titlea",
+    "value": "Thayer"
+  },
+  {
+    "key": "titleb",
+    "value": "Birding Quiz"
+  },
+  {
+    "key": "begin",
+    "value": "Tap here to begin"
+  },
+  {
+    "key": "choose_a_quiz",
+    "value": "Choose a Quiz"
+  },
+  {
+    "key": "start_quiz",
+    "value": "Start Quiz"
+  },
+  {
+    "key": "whoami",
+    "value": "Who am I?"
+  },
+  {
+    "key": "check",
+    "value": "Check Answer"
+  },
+  {
+    "key": "redo",
+    "value": "Restart Quiz"
+  },
+  {
+    "key": "final_score",
+    "value": "You Identified {0} Out of {1} Birds!"
+  },
+  {
+    "key": "check_answer",
+    "value": "Check Answer"
+  },
+  {
+    "key": "next_question",
+    "value": "Next Question"
+  },
+  {
+    "key": "final_question",
+    "value": "See Score"
+  }
+]
