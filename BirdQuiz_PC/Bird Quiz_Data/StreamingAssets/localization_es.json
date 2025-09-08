@@ -1,0 +1,54 @@
+[
+  {
+    "key": "titlea",
+    "value": "Pruebas de"
+  },
+  {
+    "key": "titleb",
+    "value": "Aves de Thayer"
+  },
+  {
+    "key": "begin",
+    "value": "Presione para Empezar"
+  },
+  {
+    "key": "choose_a_quiz",
+    "value": "Elija una Prueba"
+  },
+  {
+    "key": "start_quiz",
+    "value": "Empiece la Prueba"
+  },
+  {
+    "key": "whoami",
+    "value": "¿Quién Soy Yo?"
+  },
+  {
+    "key": "check",
+    "value": "Verificar la Respuesta"
+  },
+  {
+    "key": "redo",
+    "value": "Empiece de Nuevo"
+  },
+  {
+    "key": "final_score",
+    "value": "¡Marco correcto {0} de {1}!"
+  },
+  {
+    "key": "check_answer",
+    "value": "Verificar la Respuesta"
+  },
+  {
+    "key": "next_question",
+    "value": "Siguiente Pregunta"
+  },
+  {
+    "key": "see_score",
+    "value": "Ver Puntuación"
+  },
+    {
+    "key": "final_question",
+    "value": "Ver Puntuación"
+  }
+  ]
